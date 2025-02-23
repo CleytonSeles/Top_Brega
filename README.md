@@ -85,16 +85,16 @@ plaintext
       ├── .gitignore               # Arquivos e pastas a serem ignorados pelo Git
       ├── README.md                # Documentação do projeto
       ├── requirements.txt         # Lista de dependências do projeto
-Contribuição
+#### Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-Licença
+#### Licença
 
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
 
-Instruções Adicionais:
+#### Instruções Adicionais:
 
 1.Atualize o arquivo requirements.txt com as dependências necessárias:
 
